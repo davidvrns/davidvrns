@@ -24,11 +24,22 @@
 ---
 
 ### 🧰 Toolbox
-**Languages:** `Python` · `Bash` · `JavaScript`  
-**Pentest:** `Burp Suite` · `Nmap` · `Metasploit` · `Nuclei` · `WebInspect` · `Nessus`  
-**Cloud & Infra:** `AWS` · `GCP` · `Aqua` 
-**Other:** `nodejs` · `MongoDB` · `Docker` · `Git` · `Postman` · `HoppScotch` 
-**AI:** `OpenAI GPT` · `Anthropic Claude` · `Github Copilot` · `Stable Diffusion` · `LM Studio` 
+
+**Languages:**  
+`Python` · `Bash` · `JavaScript`  
+
+**Pentest:**  
+`Burp Suite` · `Nmap` · `Metasploit` · `Nuclei` · `WebInspect` · `Nessus`  
+
+**Cloud & Infra:**  
+`AWS` · `GCP` · `Aqua`  
+
+**Other:**  
+`Node.js` · `MongoDB` · `Docker` · `Git` · `Postman` · `Hoppscotch`  
+
+**AI:**  
+`OpenAI GPT` · `Anthropic Claude` · `GitHub Copilot` · `Stable Diffusion` · `LM Studio`  
+
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
