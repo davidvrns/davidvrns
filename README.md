@@ -27,8 +27,8 @@
 **Languages:** `Python` · `Bash` · `JavaScript`  
 **Pentest:** `Burp Suite` · `Nmap` · `Metasploit` · `Nuclei` · `WebInspect` · `Nessus`  
 **Cloud & Infra:** `AWS` · `GCP` · `Aqua` 
+**Other:** `nodejs` · `MongoDB` · `Docker` · `Git` · `Postman` · `HoppScotch` 
 **AI:** `OpenAI GPT` · `Anthropic Claude` · `Github Copilot` · `Stable Diffusion` · `LM Studio` 
-**Other:** `nodejs` · `MongoDB` · `Docker` · `Git` · `Postman` · `HoppScotch`
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
