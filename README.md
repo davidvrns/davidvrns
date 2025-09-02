@@ -52,37 +52,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<div align="center">
-
-<!-- Core stats -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=davidvrns&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=github_dark">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=davidvrns&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true" />
-</picture>
-
-<!-- Top languages -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=davidvrns&layout=compact&langs_count=10&hide_border=true&theme=github_dark">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=davidvrns&layout=compact&langs_count=10&hide_border=true" />
-</picture>
-
-<!-- Streak -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=davidvrns&hide_border=true&theme=dark">
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=davidvrns&hide_border=true" />
-</picture>
-
-<!-- Trophies -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=davidvrns&no-bg=true&no-frame=true&theme=onedark">
-  <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=davidvrns&no-bg=true&no-frame=true" />
-</picture>
-
-</div>
-
----
-
 ### 📣 Contact
 - 📬 Email: david.viernes23@gmail.com
 - 📢 Mastodon/X: @davidvrns
