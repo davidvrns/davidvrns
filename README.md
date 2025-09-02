@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I'm David 👋</h1>
 <p align="center">
-  🔐 Cybersecurity Expert · 🕵️ Pentester · 🔭 Security Researcher
+  🔐 Cybersecurity Expert · 🕵️ Pentester · 🔭 Security Researcher · 💻 Programmer
 </p>
 
 <p align="center">
@@ -18,17 +18,17 @@
 ### 🧭 About
 - 🛡️ I break things to make them safer: red teaming, web/app & cloud pentesting.
 - 🧪 Research interests: vuln discovery, exploit dev, attack surface mapping, supply chain.
-- ✍️ Writing: bug bounty & CTF write-ups, threat notes, and PoCs on my blog.
-- 🌱 Currently exploring: eBPF for security, cloud detection engineering, AI+Sec.
+- 💻 Coding: Pentesting tooling, Bug Bounty scripts, and PoCs.
+- 🌱 Currently exploring: AI+Security.
 
 ---
 
 ### 🧰 Toolbox
-**Languages:** `Python` · `Go` · `Bash` · `JavaScript`  
-**Pentest:** `Burp Suite` · `Nmap` · `Metasploit` · `Impacket` · `Responder` · `BloodHound`  
-**Cloud & Infra:** `AWS` · `GCP` · `Terraform` · `Kubernetes`  
-**DFIR & AppSec:** `YARA` · `Sigma` · `Semgrep` · `OWASP ZAP`  
-**Other:** `Neo4j` · `PostgreSQL` · `Docker` · `Git`
+**Languages:** `Python` · `Bash` · `JavaScript`  
+**Pentest:** `Burp Suite` · `Nmap` · `Metasploit` · `Nuclei` · `WebInspect` · `Nessus`  
+**Cloud & Infra:** `AWS` · `GCP` · `Aqua` 
+**AI:** `OpenAI GPT` · `Anthropic Claude` · `Github Copilot` · `Stable Diffusion` · `LM Studio`
+**Other:** `nodejs` · `MongoDB` · `Docker` · `Git` · `Postman` · `HoppScotch`
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
@@ -49,6 +49,7 @@
 - **[ExitScout](https://github.com/davidvrns/ExitScout)** — Network Egress Auditing Tool.
 - **[massnmap](https://github.com/davidvrns/massnmap)** — Fast Domain/IP Port Scanner
 - **[CDNScope](https://github.com/davidvrns/CDNScope)** — CDN Detection and Origin Health checker
+- **[VulnHub](https://github.com/davidvrns/VulnHub)** — Vulnerability Database
 
 ---
 
