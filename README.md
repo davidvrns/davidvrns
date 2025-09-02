@@ -1,9 +1,9 @@
 <!-- PROFILE README: github.com/davidvrns/davidvrns -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&height=70&lines=Hi%2C+I'm+David+Viernes+%F0%9F%91%8B;Cybersecurity+Expert+%F0%9F%94%90;Penetration+Tester+%F0%9F%95%B5%EF%B8%8F;Security+Researcher+%F0%9F%94%AD;Breaking+%26+Building+Secure+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&height=70&lines=Hi%2C+I'm+David+Viernes+%F0%9F%91%8B;Cybersecurity+Expert+%F0%9F%94%90;Penetration+Tester+%F0%9F%95%B5%EF%B8%8F;Security+Researcher+%F0%9F%94%AD;Programmer" alt="Typing SVG" />
 </div>
 <p align="center">
-  🔐 Cybersecurity Expert · 🕵️ Pentester · 🔭 Security Researcher · 💻 Programmer
+  🔐 Cybersecurity Expert · 🕵️ Penetration Tester · 🔭 Security Researcher · 💻 Programmer
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=davidvrns&color=00d9ff&style=for-the-badge&label=Profile+Views" alt="Profile Views">
