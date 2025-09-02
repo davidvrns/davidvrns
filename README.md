@@ -27,7 +27,7 @@
 **Languages:** `Python` · `Bash` · `JavaScript`  
 **Pentest:** `Burp Suite` · `Nmap` · `Metasploit` · `Nuclei` · `WebInspect` · `Nessus`  
 **Cloud & Infra:** `AWS` · `GCP` · `Aqua` 
-**AI:** `OpenAI GPT` · `Anthropic Claude` · `Github Copilot` · `Stable Diffusion` · `LM Studio`
+**AI:** `OpenAI GPT` · `Anthropic Claude` · `Github Copilot` · `Stable Diffusion` · `LM Studio` 
 **Other:** `nodejs` · `MongoDB` · `Docker` · `Git` · `Postman` · `HoppScotch`
 
 <p>
